@@ -1,2 +1,3 @@
 # Personal-Testing
-Just for personal practice
+Just for personal practice using git
+
